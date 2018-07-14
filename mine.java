@@ -1,4 +1,4 @@
-/**me*/
+
 public class Mine{
 	//单例模式
 	private static Singleton uniqueInstance;
